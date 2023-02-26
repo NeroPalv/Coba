@@ -1,1 +1,8 @@
 file baru di branch cadangan
+Tutorial awal menggunakan GitHub : 
+-repository
+ +collaborative
+-file
+ + commit
+-branch
+ + merge
