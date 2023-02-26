@@ -4,6 +4,6 @@ Tutorial awal menggunakan GitHub :
  +collaborative
 -file
  + commit
- + tambah tes2
+ + tambah tes1
 -branch
  + merge
